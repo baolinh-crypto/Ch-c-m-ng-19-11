@@ -1,0 +1,10 @@
+{
+  "description": "Personalize International Men’s Day wishes for classmates with their name featured in three heartfelt letters from Linh, Lương, and Thư, accompanied by music.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
