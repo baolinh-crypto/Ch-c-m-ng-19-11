@@ -126,6 +126,10 @@ export default function App() {
   };
 
   useEffect(() => {
+    document.title = '19/11 udu01';
+  }, []);
+
+  useEffect(() => {
     const onKeyDown = (event: KeyboardEvent) => {
       if (event.key === 'Escape') setActiveLetter(null);
     };
